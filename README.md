@@ -52,16 +52,23 @@ This project analyzes the company's sales and profitability data, focusing on ma
   - High discounts result in losses.
   - Low to no discounts yield the highest profitability.
   - Medium discounts strike a balance between sales volume and profitability.
+ 
+## Power BI Dashboard
+
+A Power BI dashboard was created to visualize the insights effectively to provide an interactive view of key metrics such as profitability by segment and region, sales performance, discount impact, and product performance.
+
+**Key Features of the Dashboard:**
+- Dynamic visualizations for quick decision-making.
+- Interactive filters to explore data by region, product, and period.
+- Profitability and discount trend analysis for strategic planning.
+
+**Screenshot:**
+![Power BI Dashboard](https://github.com/kaali7/report-project/blob/main/img_report/dashbaord_img.png?raw=true)
 
 ## Conclusion
 
 The company can maximize revenue and financial performance by reallocating resources, refining discount strategies, and leveraging data-driven insights. Further analysis of seasonal trends and customer behavior will enhance long-term growth strategies.
 
-## Contact Information
-
-**Prepared by**: Ashwini Prajapati\
-**Date**: 16/02/2025\
-**Email**: [ashwiniprajapati411@gmail.com](mailto\:ashwiniprajapati411@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
